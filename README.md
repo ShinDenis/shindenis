@@ -17,19 +17,13 @@ I like automating, building scalable pipelines, improving and optimizing systems
 
 <table>
   <tr>
-    <td><img src= https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000></td>
-    <td><img src=".../apache_spark.svg" width="80" height="50"/></td>
-    <td><img src=".../aws.svg" width="60" height="40"/></td>
-    <td><img src=".../scala.svg" width="40" height="40"/></td>
-    <td><img src="assets/python.svg" width="40" height="40"/></td>
-    <td><img src=".../mysql.svg" width="40" height="40"/></td>
-    <td><img src=".../bitbucket.svg" height="40"/></td>
-    <td><img src=".../git.svg" width="70" height="40"/></td>
-    <td><img src=".../bamboo.svg" width="40" height="40"/></td>
-    <td><img src=".../jira.svg" width="40"/></td>
-    <td><img src=".../kafka.svg" width="105" height="40"/></td>
-    <td><img src=".../linux-tux.svg" width="40"/></td>
-    <td><img src=".../tableau.svg" width="200"/></td>
+    <td><img src="assets/python.svg"></td>
+    <td><img src="assets/pandas.svg"></td>
+    <td><img src="assets/numpy.svg"></td>
+    <td><img src="assets/matplotlib.svg"></td>
+    <td><img src="assets/scikitlearn.svg"></td>
+    <td><img src="assets/mysql.svg"></td>
+    <td><img src=".../apache_spark.svg"></td>
   </tr>
 </table>
 
