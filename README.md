@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+</p>
 
 # Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> I'm **SHIN DENIS**.
 ### I'm **Data Science/ ML** engineering developer. 📊
@@ -27,21 +30,6 @@ I like automating, building scalable pipelines, improving and optimizing systems
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
 </p>
-
-<!--
-**Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-T
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <br>
 </p>    
