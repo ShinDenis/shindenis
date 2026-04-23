@@ -2,10 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=90"/>
 </p>
 
-# Привет!!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> я ***Shin Denis***.
+# Привет! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> Я -  ***SHIN DENIS***.
 
-<p align=''>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+
+<p>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
 </p>
 
 ## 📊Data Scientist / ML Engineer. 
@@ -47,7 +49,7 @@
     <td><img src="assets/docker.svg" width="100"/></td>
     <td><img src="assets/circleci.svg" width="100"/></td>
     <td><img src="assets/railway.png" width="100"/></td>
-    <td><img src="assets/fastapi.svg" width="100"/></td>
+    <td><img src="assets/restapi.svg" width="100"/></td>
     <td><img src="assets/github.svg" width="100"/></td>
   </tr>
 </table>
