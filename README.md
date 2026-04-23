@@ -17,7 +17,7 @@ I like automating, building scalable pipelines, improving and optimizing systems
 
 <table>
   <tr>
-    <td><img src=".../hadoop.svg" width="70" height="40"/></td>
+    <td><img src= https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000></td>
     <td><img src=".../apache_spark.svg" width="80" height="50"/></td>
     <td><img src=".../aws.svg" width="60" height="40"/></td>
     <td><img src=".../scala.svg" width="40" height="40"/></td>
