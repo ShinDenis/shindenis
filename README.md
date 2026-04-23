@@ -21,7 +21,7 @@ I like automating, building scalable pipelines, improving and optimizing systems
     <td><img src=".../apache_spark.svg" width="80" height="50"/></td>
     <td><img src=".../aws.svg" width="60" height="40"/></td>
     <td><img src=".../scala.svg" width="40" height="40"/></td>
-    <td><img src=".../python.svg" width="40" height="40"/></td>
+    <td><img src="assets/python.svg" width="40" height="40"/></td>
     <td><img src=".../mysql.svg" width="40" height="40"/></td>
     <td><img src=".../bitbucket.svg" height="40"/></td>
     <td><img src=".../git.svg" width="70" height="40"/></td>
