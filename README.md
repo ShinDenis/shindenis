@@ -23,7 +23,7 @@ I like automating, building scalable pipelines, improving and optimizing systems
     <td><img src="assets/matplotlib.svg" width="100"/></td>
     <td><img src="assets/scikitlearn.svg" width="100"/></td>
     <td><img src="assets/mysql.svg" width="100"/></td>
-    <td><img src="assets/apache_spark.svg" width="100"/></td>
+    <td><img src="assets/feature-engine.png" width="100"/></td>
   </tr>
 </table>
 
