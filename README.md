@@ -1,11 +1,18 @@
-### Hi there 👋 I'm SHIN DENIS,
 
-A Data Science / ML engineer developer. :bar_chart:
+# Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> I'm **SHIN DENIS**.
+### I'm **Data Science/ ML** engineering developer. 📊
+
+
+## 🚀 About Me
 I like automating, building scalable pipelines, improving and optimizing systems. 
 
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+</p>
+	
 ### My skills include
 
-<p align="center">
+<p>
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
