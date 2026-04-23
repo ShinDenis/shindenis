@@ -1,4 +1,4 @@
-### Hi there 👋 I'm DENIS SHIN,
+### Hi there 👋 I'm SHIN DENIS,
 
 A Data Science / ML engineer developer. :bar_chart:
 I like automating, building scalable pipelines, improving and optimizing systems. 
