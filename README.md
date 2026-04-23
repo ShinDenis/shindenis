@@ -24,6 +24,11 @@ I like automating, building scalable pipelines, improving and optimizing systems
     <td><img src="assets/scikitlearn.svg" width="100"/></td>
     <td><img src="assets/mysql.svg" width="100"/></td>
     <td><img src="assets/feature-engine.png" width="100"/></td>
+    <td><img src="assets/docker.svg" width="100"/></td>
+    <td><img src="assets/circleci.svg" width="100"/></td>
+    <td><img src="assets/railway.png" width="100"/></td>
+    <td><img src="assets/fastapi.svg" width="100"/></td>
+    <td><img src="assets/github.svg" width="100"/></td>
   </tr>
 </table>
 
