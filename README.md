@@ -17,12 +17,13 @@ I like automating, building scalable pipelines, improving and optimizing systems
 
 <table>
   <tr>
-    <td><img src="assets/python.svg"></td>
-    <td><img src="assets/pandas.svg"></td>
-    <td><img src="assets/numpy.svg"></td>
-    <td><img src="assets/matplotlib.svg"></td>
-    <td><img src="assets/scikitlearn.svg"></td>
-    <td><img src="assets/mysql.svg"></td>
+    <td><img src="assets/python.svg" width="100"/></td>
+    <td><img src="assets/pandas.svg" width="100"/></td>
+    <td><img src="assets/numpy.svg" width="100"/></td>
+    <td><img src="assets/matplotlib.svg" width="100"/></td>
+    <td><img src="assets/scikitlearn.svg" width="100"/></td>
+    <td><img src="assets/mysql.svg" width="100"/></td>
+    <td><img src="assets/apache_spark.svg" width="100"/></td>
   </tr>
 </table>
 
