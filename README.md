@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=90"/>
 </p>
 
 # Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> I'm **SHIN DENIS**.
@@ -33,3 +33,6 @@ I like automating, building scalable pipelines, improving and optimizing systems
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=90&section=footer"/>
+</p>
