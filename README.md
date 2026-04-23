@@ -34,6 +34,7 @@
 <table>
   <tr>
     <td><img src="assets/python.svg" width="100"/></td>
+    <td><img src="assets/jupyter.svg" width="100"/></td>
     <td><img src="assets/pandas.svg" width="100"/></td>
     <td><img src="assets/numpy.svg" width="100"/></td>
     <td><img src="assets/matplotlib.svg" width="100"/></td>
@@ -45,6 +46,7 @@
   </tr>
   
   <tr>
+    <td><img src="assets/sql.svg" width="100"/></td>
     <td><img src="assets/mysql.svg" width="100"/></td>
     <td><img src="assets/docker.svg" width="100"/></td>
     <td><img src="assets/circleci.svg" width="100"/></td>
